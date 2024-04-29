@@ -3,7 +3,10 @@
 
 ## Introduction
 
-AimKill is a C++ library designed for educational purposes, aimed at enhancing your gaming experience by providing automated aiming and damage functionalities in your game. This library is particularly useful for educational projects exploring automation techniques and game mechanics.
+AimKill is a C++ library designed for educational purposes, aimed at enhancing your gaming experience by providing automated aiming and damage functionalities in your game. This library is particularly useful for educational projects exploring automation techniques and game mechanics. 
+
+- It's a bit older code so you may need to manage some parts on your own to make it smoother .
+- Shared this code to public as I dont use this anymore 
 
 ## Features
 
