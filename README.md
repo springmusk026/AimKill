@@ -48,7 +48,6 @@ To utilize AimKill in your educational project, follow these steps:
 ```cpp
 #include "AimKill.h"
 
-int main() {
     // Initialize AimKill library
     AimKill aimKill;
 
@@ -62,8 +61,6 @@ int main() {
 
     // Game logic...
 
-    return 0;
-}
 ```
 
 ## Contributing
